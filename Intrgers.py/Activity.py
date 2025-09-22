@@ -1,0 +1,5 @@
+print(5)
+print("5")
+print("hello \n python ")
+print("hi", 45)
+print("welcome to", end="*")
